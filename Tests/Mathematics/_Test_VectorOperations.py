@@ -1,5 +1,5 @@
 import unittest
-from src.MetaKit.Mathematics import VectorOperations
+from src import VectorOperations
 import math
 import numpy as np
 

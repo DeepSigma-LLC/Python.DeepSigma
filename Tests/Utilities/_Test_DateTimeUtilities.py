@@ -1,5 +1,5 @@
 import unittest
-from src.MetaKit.Utilities import DateTimeUtilities
+from src import DateTimeUtilities
 from datetime import date, datetime
 
 

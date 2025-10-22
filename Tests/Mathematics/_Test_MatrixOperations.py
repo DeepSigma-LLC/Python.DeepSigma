@@ -1,5 +1,5 @@
 import unittest
-from src.MetaKit.Mathematics import MatrixOperations
+from src import MatrixOperations
 import numpy as np
 
 

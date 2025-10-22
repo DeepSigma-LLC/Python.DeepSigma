@@ -1,5 +1,5 @@
 import unittest
-from src.MetaKit.Mathematics import Calculus
+from src import Calculus
 
 
 class TestCalculus(unittest.TestCase):
