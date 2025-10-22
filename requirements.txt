@@ -1,0 +1,17 @@
+plotly # Charting
+matplotlib # Charting
+tensorflow # Deep learning
+pyodbc # Database connections
+openai # AI
+keras # ML
+pandas # Data frames
+numpy # Matrix operations
+scikit-learn # ML
+scipy # Data interpolation
+seaborn # charts
+openpyxl # working with xlsx files
+xlrd # Working with xls files
+blpapi # bloomberg
+requests #Web requests
+transformers # Ai
+torch # ML

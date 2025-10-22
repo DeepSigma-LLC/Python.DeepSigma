@@ -1,0 +1,6 @@
+[project]
+name = "deepsigma.utilities"
+version = "2025.0.0"
+requires-python = ">= 3.11"
+description = "General library enabling abstracted functionality for AI, data science, data vis, and quant finance."
+license = "MIT"

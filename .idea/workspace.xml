@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8f8a7030-cd82-4f92-bf90-cd8c106da9b3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Tests/Mathematics/_Test_Calculus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Mathematics/_Test_MatrixOperations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Mathematics/_Test_VectorOperations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/Utilities/_Test_DateTimeUtilities.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Brenden-Dean-Perry&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DeepSigma-LLC/Python.DeepSigma.Utilities.git&quot;,
+    &quot;accountId&quot;: &quot;8fdb9b8a-4dae-4e18-af81-3f374f2881ad&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mlTDzcbbNNwz2WehSURKDzLgbg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests for _Test_DateTimeUtilities.MyTestCase.executor": "Run",
+    "Python tests.Python tests for _Test_DateTimeUtilities.MyTestCase.test_get_end_of_month_3.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "database.data.extractors.current.export.id": "SQL-Insert-Multirow.sql.groovy",
+    "database.data.extractors.current.id": "Comma-separated (CSV)_id",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/brend/Desktop/GitHub/DeepSigmaRepos/Python.DeepSigma.Utilities/Tests/Utilities",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlserver",
+      "azure"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\brend\Desktop\GitHub\DeepSigmaRepos\Python.DeepSigma.Utilities\Tests\Utilities" />
+      <recent name="C:\Users\brend\Desktop\GitHub\DeepSigmaRepos\Python.DeepSigma.Utilities\Tests\Mathematics" />
+      <recent name="C:\Users\brend\Desktop\GitHub\DeepSigmaRepos\Python.DeepSigma.Utilities\src\DeepSigma.Utilities" />
+      <recent name="C:\Users\brend\Desktop\GitHub\DeepSigmaRepos\Python.DeepSigma.Utilities\src" />
+      <recent name="C:\Users\brend\Desktop\GitHub\DeepSigmaRepos\Python.DeepSigma.Utilities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\brend\Desktop\GitHub\PythonLibrary\src\MetaKit" />
+      <recent name="C:\Users\brend\Desktop\GitHub\PythonLibrary\Utilities" />
+      <recent name="C:\Users\brend\Desktop\GitHub\PythonLibrary\Objects\DataSeries" />
+      <recent name="C:\Users\brend\Desktop\GitHub\PythonLibrary\Objects\ChartObjects" />
+      <recent name="C:\Users\brend\Desktop\GitHub\PythonLibrary\DataAccess\Bloomberg" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase">
+    <configuration name="Python tests for Mathematics.UnitTests._Test_VectorOperations.TestVectorOperations" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonLibrary" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Mathematics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Mathematics.UnitTests._Test_VectorOperations.TestVectorOperations&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.MetaKit.Mathematics.UnitTests._Test_VectorOperations.TestVectorOperations" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonLibrary" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/DeepSigma.Utilities/Mathematics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.MetaKit.Mathematics.UnitTests._Test_VectorOperations.TestVectorOperations&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonLibrary" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/DeepSigma.Utilities/Utilities/UnitTests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_end_of_month_1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonLibrary" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/DeepSigma.Utilities/Utilities/UnitTests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_end_of_month_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_end_of_month_2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonLibrary" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/DeepSigma.Utilities/Utilities/UnitTests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_end_of_month_2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_end_of_month_3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonLibrary" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/DeepSigma.Utilities/Utilities/UnitTests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_end_of_month_3&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_quarter_0" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonLibrary" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/DeepSigma.Utilities/Utilities/UnitTests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_quarter_0&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase" />
+        <item itemvalue="Python tests.Python tests for src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_end_of_month_3" />
+        <item itemvalue="Python tests.Python tests for src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_quarter_0" />
+        <item itemvalue="Python tests.Python tests for src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_end_of_month_2" />
+        <item itemvalue="Python tests.Python tests for src.MetaKit.Utilities.UnitTests._Test_DateTimeUtilities.MyTestCase.test_get_end_of_month_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d27dc8f8c276-a636b6f4477c-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-252.26199.84" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f8a7030-cd82-4f92-bf90-cd8c106da9b3" name="Changes" comment="" />
+      <created>1750223777651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750223777651</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
