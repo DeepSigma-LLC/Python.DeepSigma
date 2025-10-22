@@ -1,2 +1,2 @@
-# Python.DeepSigma.Utilities
+# Python.DeepSigma
 A general purpose python library.

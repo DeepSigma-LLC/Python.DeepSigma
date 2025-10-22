@@ -1,5 +1,5 @@
 import unittest
-from src import DateTimeUtilities
+from src.DeepSigma.Utilities import DateTimeUtilities
 from datetime import date, datetime
 
 
