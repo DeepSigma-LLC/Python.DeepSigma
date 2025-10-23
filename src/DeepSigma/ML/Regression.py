@@ -16,6 +16,7 @@ class Regression:
 
         :param x: Features, a list of floats representing feature values.
         :param y: Labels, a list of floats representing label values.
+        return: Trained LinearRegression model.
         """
         model = LinearRegression()
         model.fit(x, y)
@@ -95,18 +96,53 @@ class Regression:
     
     @staticmethod
     def gradient_boosting_regression(x: list[float], y: list[float], n_estimators: int = 100, learning_rate: float = 0.1):
+        """
+        Gradient Boosting Regression is a supervised learning algorithm that combines multiple decision trees.
+        It is an ensemble learning algorithm that combines multiple decision trees.
+        Gradient boosting is a technique for fitting a non-linear function to a set of data.
+        It is achieved by fitting a sequence of models, where each successive model is a function of the previous.
+
+        :param x: Features, a list of floats representing feature values.
+        :param y: Labels, a list of floats representing label values.
+        :param n_estimators: Number of boosting stages to be run.
+        :param learning_rate: Learning rate shrinks the contribution of each tree.
+        return: Trained GradientBoostingRegressor model.
+        """
         model = GradientBoostingRegressor(n_estimators=n_estimators, learning_rate=learning_rate)
         model.fit(x, y)
         return model
     
     @staticmethod
     def ada_boost_regression(x: list[float], y: list[float], n_estimators: int = 50):
+        """"
+        Ada Boost Regression is a supervised learning algorithm that combines multiple decision trees.
+        It is an ensemble learning algorithm that combines multiple decision trees.
+        It is different from Gradient Boosting Regression in that it uses the residuals of the previous trees.
+
+        :param x: Features, a list of floats representing feature values.
+        :param y: Labels, a list of floats representing label values.
+        :param n_estimators: Number of boosting stages to be run.
+        return: Trained AdaBoostRegressor model.
+        """
         model = AdaBoostRegressor(n_estimators=n_estimators)
         model.fit(x, y)
         return model
     
     @staticmethod
-    def support_vector_regression(x: list[float], y: list[float], kernel: str = 'rbf', c: float = 1.0, epsilon: float = 0.1):
+    def support_vector_regression(x: list[float], y: list[float], kernel: str = 'rbf', c: float = 1.0,
+                                  epsilon: float = 0.1):
+        """
+        Support Vector Regression (SVR) is a supervised learning algorithm.
+        It is used for predicting continuous values by fitting a support vector machine to the data.
+        This is done by finding the support vectors that minimize the residual sum of squares.
+        :param x: Features, a list of floats representing feature values.
+        :param y: Labels, a list of floats representing label values.
+        :param kernel: Specifies the kernel type to be used in the algorithm.
+        :param c: Regularization parameter. The strength of the regularization is inversely proportional to c.
+        :param epsilon: Epsilon in the epsilon-SVR model. It specifies the epsilon-tube within which no penalty is
+        associated in the training loss function with points predicted within a distance epsilon from the actual value.
+        return: Trained SVR model.
+        """
         model = SVR(kernel=kernel, C=c, epsilon=epsilon)
         model.fit(x, y)
         return model
